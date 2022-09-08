@@ -1,3 +1,6 @@
+LINKS IMPORTANTES PARA REVISIÓN DEL TRABAJO DE DESAFÍO LATAM:
+Link a video en Youtube con explicación del trabajo: https://www.youtube.com/watch?v=LDIfZqK8Les&ab_channel=MathiasGarcia
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
