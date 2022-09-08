@@ -1,0 +1,24 @@
+.container-galeria{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2rem;
+    background-color: #5F7161;
+}
+.container-card{
+    display: flex;
+    justify-content: center;
+    background-color: #5F7161;
+}
+.carta{
+    border: blueviolet;
+}
+.carta-cuerpo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: #6D8B74;
+}
+.carta-info{
+    color: #EFEAD8;
+}

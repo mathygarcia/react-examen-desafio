@@ -1,0 +1,14 @@
+.error {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 10%;
+    padding-bottom: 28%;
+    background-color: #5F7161;
+}
+
+.error h1 {
+    background-color: #6D8B74;
+
+    color: #EFEAD8;
+}
